@@ -1,5 +1,15 @@
 <h1>Market Making Algo</h1>
 
+This is recomended for a non-levered hodler who wants to reduce risk and generate income.  If you are levered you will open yourself up to margin calls, gaming, and losses from inventory fees.
+
+Compared to a hodl strategy this will:
+Underperform in non-volatile moonshots 
+Same risk of a hodl strategy if the price drops below the user defined minimum price 
+Outperform during sideways market, high volitility upward trend, and bear market above minimum price.
+
+The under/over performance during an upward trend depends on user defined metrics
+
+
 Currently this is only built out for Coinbase Pro and Binance APIs.
 
 Before getting started you will have to create API keys for your trading accounts.  Once you have created the private keys update the keycodes.py file.
