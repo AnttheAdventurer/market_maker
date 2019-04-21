@@ -22,7 +22,7 @@ python-binance==0.6.9
 python-dateutil==2.7.3
 pytz==2018.5
 regex==2018.7.11
-requests==2.19.1
+requests==2.20
 service-identity==17.0.0
 six==1.11.0
 Twisted==18.7.0
